@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.summary = "Pagination for Rails"
   gem.description = "The will_paginate library provides a simple, yet powerful and extensible API for ActiveRecord pagination and rendering of pagination links in ActionView templates."
   
-  gem.authors  = ['Mislav Marohnić', 'PJ Hyett']
+  gem.authors  = ['Mislav Marohnic', 'PJ Hyett']
   gem.email    = 'mislav.marohnic@gmail.com'
   gem.homepage = 'http://github.com/mislav/will_paginate/wikis'
   
